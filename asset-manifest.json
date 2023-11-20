@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/socar/static/css/main.97e01c0f.css",
+    "main.js": "/socar/static/js/main.062611ca.js",
+    "static/js/787.5c32cd4c.chunk.js": "/socar/static/js/787.5c32cd4c.chunk.js",
+    "static/media/main_video.mp4": "/socar/static/media/main_video.f6232f71c46f4c88a0de.mp4",
+    "static/media/main_fourth.png": "/socar/static/media/main_fourth.194adc322926bdc7269f.png",
+    "static/media/main_third.png": "/socar/static/media/main_third.096dcc071aff273edea8.png",
+    "static/media/main_second.png": "/socar/static/media/main_second.9b8d89d821e5a5229160.png",
+    "static/media/logo.svg": "/socar/static/media/logo.7dd6841a7b4523c9974281765248b595.svg",
+    "static/media/logo-w.svg": "/socar/static/media/logo-w.b58f3dbe7136f45d6c7f4f6bfb73913c.svg",
+    "index.html": "/socar/index.html",
+    "main.97e01c0f.css.map": "/socar/static/css/main.97e01c0f.css.map",
+    "main.062611ca.js.map": "/socar/static/js/main.062611ca.js.map",
+    "787.5c32cd4c.chunk.js.map": "/socar/static/js/787.5c32cd4c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97e01c0f.css",
+    "static/js/main.062611ca.js"
+  ]
+}
