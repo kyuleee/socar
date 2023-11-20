@@ -1,0 +1,43 @@
+.section2{
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    box-sizing: border-box;
+    padding-top: 150px;
+}
+.bgimg1{
+    background-image: url(./main_second.png);
+}
+.bgimg2{
+    background-image: url(./main_third.png);
+}
+.bgimg3{
+    background-image: url(./main_fourth.png);
+}
+.section2 p{
+    font-size: 24px;
+    color: #2379ff;
+    font-weight: bold;
+}
+.section2 h2{
+    font-size: 46px;
+    color: #fff;
+    white-space: pre-line;
+}
+.section2 div{
+    width: 300px;
+    border: 1px solid #fff;
+    padding: 18px;
+    color: #fff;
+    cursor: pointer;
+    position: relative;
+    margin-top: 70px;
+}
+.section2 div>span{
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #FFF;
+}
